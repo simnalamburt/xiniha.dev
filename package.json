@@ -16,14 +16,14 @@
     "@rollup/plugin-yaml": "^4.1.2",
     "@solid-primitives/intersection-observer": "^2.1.6",
     "@unocss/reset": "^0.60.4",
-    "astro": "^4.9.2",
+    "astro": "^4.16.18",
     "unocss": "^0.60.4"
   },
   "devDependencies": {
     "@astrojs/solid-js": "^4.2.0",
     "prettier": "^3.3.0",
     "prettier-plugin-astro": "^0.14.0",
-    "solid-js": "^1.8.17",
+    "solid-js": "^1.9.4",
     "typescript": "^5.4.5"
   },
   "repository": {
